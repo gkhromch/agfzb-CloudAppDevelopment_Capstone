@@ -11,4 +11,29 @@
   border-radius: 20px;
 
   }
-  
+    
+  .ident-left {
+    padding: 30;
+  }
+
+  .top-left-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+  }
+
+  .grey-card {
+    padding-top: 50px;
+    padding-left: 30px;
+    background-color: rgb(249, 247, 247);
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+
+  .card-text {
+    font-size:x-large;
+  }
